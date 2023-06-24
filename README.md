@@ -12,7 +12,7 @@ A modern messaging app where users can sign up and log in to chat.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/hariprasad2512/Lets_Chat.git
+https://github.com/HridayeshNadella/Lets-Chat.git
 ```
 
 **Step 2:**
@@ -24,5 +24,7 @@ flutter pub get
 ```
 
 **Step 3:**
+
 Run the Application in an Android Emulator, by launching a new device in Android Studio's Device Manager section.
+
 
