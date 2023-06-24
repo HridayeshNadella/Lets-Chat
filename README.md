@@ -2,6 +2,7 @@
 # Let's Chat ⚡️
 
 A modern messaging app where users can sign up and log in to chat.
+
 An Android App Project using Object Oriented Programming.
 
 # Download APK
