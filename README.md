@@ -2,6 +2,8 @@
 # Let's Chat ⚡️
 
 A modern messaging app where users can sign up and log in to chat.
+An Android App Project using Object Oriented Programming.
+
 # Download APK
 
 [To download the APK file, click here](https://drive.google.com/file/d/1ag86mO5-YH1dUGl1-YOLNt8qLOnIoS3P/view?usp=sharing)
