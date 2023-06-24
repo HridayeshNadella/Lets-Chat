@@ -4,7 +4,7 @@
 A modern messaging app where users can sign up and log in to chat.
 
 ## Getting Started
-
+![]()
 [To learn how the app works, click here](https://docs.google.com/presentation/d/1Nb9fHjpB8kFEX13yFBEVjELmlHgfapLCZZRAuBWo1zo/edit?usp=sharing)
 
 ## How to Use 
